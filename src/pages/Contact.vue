@@ -3,7 +3,12 @@
 </template>
 
 <script>
+  // Import components
+
   export default {
+    components: {
+      // Imported components
+    },
     data () {
       return {
         // Component data
